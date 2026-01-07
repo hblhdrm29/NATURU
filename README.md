@@ -51,6 +51,6 @@ Terkena Genjutsu Itachi
 
 ## 🤝 Kontribusi
 
-Mau nambahin jutsu baru atau koleksi alasan ninja lainnya? Silahkan lakukan Pull Request dengan semangat membara!
 
-**Dibuat dengan ❤️ oleh [Habillah Darma](https://github.com/hblhdrm29)**
+
+**Dibuat oleg [Habillah Darma](https://github.com/hblhdrm29)**
