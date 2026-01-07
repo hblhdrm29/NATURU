@@ -1,23 +1,18 @@
-# 🥷 NINJA KOK EROR - Ninja Dev Survival Kit
+# 🥷 NINJA KOK EROR 
 
 "ngoding pake kodok, codingan ku di obok-obok"
 
-**Ninja Dev Survival Kit** (NATURU Edition) adalah website interaktif yang dirancang khusus untuk para ninja developer yang sedang berjuang melawan jutsu-jutsu eror di dunia perkodingan. Dibuat dengan gaya manga yang agresif dan penuh semangat api (Will of Fire).
+**NINJA KOK EROR** adalah website manusia ninja yang gabut
 
 ---
 
 ## 🔥 Fitur Utama
 
 ### 📜 Kuchiose Alasan (Summoning Excuses)
-Butuh alasan kenapa kodingan belum kelar atau kenapa server tiba-tiba meledak? Gunakan jutsu ini untuk memanggil alasan-alasan strategis yang akan membuat Lord Orochimaru sekalipun terdiam.
-- Gabungan dari "Jutsu Alasan" dan "Jalan Ninja".
-- Animasi Rasengan & Kage Bunshin saat pemanggilan.
+Butuh alasan kenapa kodingan belum kelar karena ngopi mulu
 
 ### 👁️ Genjutsu Mode (Panic Mode)
-Terminal merah di mana-mana? Gunakan Genjutsu Mode untuk masuk ke dimensi alternatif di mana bug hanyalah ilusi. Menampilkan tampilan terminal h4ck3r yang keren untuk menutupi kepanikanmu.
-
-### 👑 Hokage Mark
-Tanda tangan prestisius di pojok kanan atas sebagai bukti kepemilikan wilayah oleh **Habillah Darma**.
+Terkena Genjutsu Itachi
 
 ---
 
