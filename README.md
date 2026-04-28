@@ -53,4 +53,4 @@ Terkena Genjutsu Itachi
 
 
 
-**Dibuat oleg [Habillah Darma](https://github.com/hblhdrm29)**
+**Dibuat oleh [Habillah Darma](https://github.com/hblhdrm29)**
